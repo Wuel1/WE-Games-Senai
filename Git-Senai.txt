@@ -1,0 +1,4 @@
+input()
+print('Olá! Meu nome é Wandson Emanuel e estou no curso de front-end no Senai')
+input()
+quit()
